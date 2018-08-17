@@ -44,13 +44,13 @@ Component licenses can be found under the CodeXL GitHub repository source root, 
 
 OpenCL is a trademark of Apple Inc. used by permission by Khronos. OpenGL is a registered trademark of Silicon Graphics, Inc. in the United States and/or other countries worldwide. Microsoft, Windows, DirectX and Visual Studio are registered trademarks of Microsoft Corporation in the United States and/or other jurisdictions. Vulkan is a registered trademark of Khronos Group Inc. in the United States and/or other jurisdictions. Linux is the registered trademark of Linus Torvalds in the United States and/or other jurisdictions.
 
-LGPL (Copyright ©1991, 1999 Free Software Foundation, Inc.  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA). Use of the Qt library is governed by the GNU Lesser General Public License version 2.1 (LGPL v 2.1). CodeXL uses QT 5.5.1. Source code for QT is available here: http://qt-project.org/downloads. The QT source code has not been tempered with and the built binaries are identical to what any user that downloads the source code from the web and builds them will produce.
+LGPL (Copyright ©1991, 1999 Free Software Foundation, Inc.  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA). Use of the Qt library is governed by the GNU Lesser General Public License version 2.1 (LGPL v 2.1). CodeXL uses Qt 5.5.1. Source code for Qt is available here: http://qt-project.org/downloads. The Qt source code has not been tampered with and the built binaries are identical to that which any user that downloading the Qt source code from the web would build.
 
 * Boost is Copyright © Beman Dawes, 2003.
 * [CR]LunarG, Inc. is Copyright © 2015 LunarG, Inc.
 * jqPlot is copyright © 2009-2011 Chris Leonello.
 * glew - The OpenGL Extension Wrangler Library is Copyright © 2002-2007, Milan Ikits <milan ikits[]ieee org>, Copyright © 2002-2007, Marcelo E. Magallon <mmagallo[]debian org>, Copyright © 2002, Lev Povalahev, All rights reserved.
-* lgplib is Copyright © 1994-1998, Thomas G. Lane., Copyright © 1991-2013, Thomas G. Lane, Guido Vollbeding. 
+* jpglib is Copyright © 1994-1998, Thomas G. Lane., Copyright © 1991-2013, Thomas G. Lane, Guido Vollbeding. 
 * LibDwarf (BSD) is Copyright © 2007 John Birrell (jb@freebsd.org),  Copyright © 2010 Kai Wang,  All rights reserved.
 * libpng is Copyright © 1998-2014 Glenn Randers-Pehrson, (Version 0.96 Copyright © 1996, 1997 Andreas Dilger) (Version 0.88 Copyright © 1995, 1996 Guy Eric Schalnat, Group 42, Inc.).
 * QScintilla is Copyright © 2005 by Riverbank Computing Limited <info@riverbankcomputing.co.uk>.
